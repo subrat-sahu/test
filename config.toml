@@ -1,4 +1,5 @@
-baseurl = "/" # Must end with /
+baseurl = "https://subrat-sahu.github.io/test" # Must end with /
+publishDir = "docs"
 languageCode = "en-us"
 title = "Introduction"
 theme = "introduction"
